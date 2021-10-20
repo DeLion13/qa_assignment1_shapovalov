@@ -7,7 +7,7 @@ cd src
 sh server.sh <PORT>
 ```
 
-It will run server in a docker container.
+It will run this server in a docker container.
 To browse this' server output us `telnet` utility:
 
 ```shell
