@@ -1,0 +1,1 @@
+# qa_assignment1_shapovalov
