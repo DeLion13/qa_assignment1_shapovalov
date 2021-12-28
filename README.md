@@ -1,4 +1,4 @@
-# qa_assignment1_shapovalov
+# qa_assignment_1
 
 To run a server:
 
